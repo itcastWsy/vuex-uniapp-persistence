@@ -29,6 +29,12 @@ export default store;
 
 **key** 是你设置 本地存储的 key 的名称，如果不传，默认就是 `vuex-uniapp-persistence`
 
+## 更新日志
+
+### 1.0.1
+
+将本地存储完全替换 state 修改为 合并本地存取和 state 融合到 vuex 中
+
 ## 联系我
 
 - yeah126139163@163.com

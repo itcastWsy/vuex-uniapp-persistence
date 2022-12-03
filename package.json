@@ -1,6 +1,6 @@
 {
   "name": "vuex-uniapp-persistence",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "uniapp vue2 vuex 持久化",
   "main": "index.js",
   "scripts": {
@@ -17,5 +17,8 @@
     "url": "https://github.com/itcastWsy/vuex-uniapp-persistence"
   },
   "author": "万少",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
